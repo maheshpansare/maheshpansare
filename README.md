@@ -7,7 +7,7 @@ UI / Front End Developer
 I am an ui/front end developer, shutterbug, foodie. Thanks for visiting for Github page.
 
 * 🌍  I'm based in Pune, Maharashtra, India
-* ✉️  You can contact me at [contact@maheshpansare.com](mailto:contact@maheshpansare.com)
+* ✉️  You can reach me at [contact@maheshpansare.com](mailto:contact@maheshpansare.com)
 * 🧠  I'm learning Angular, React
 
 ### Skills
