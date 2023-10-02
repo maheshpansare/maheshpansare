@@ -33,3 +33,6 @@ I am an ui/front end #developer, #shutterbug, and #foodie. Thanks for visiting f
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mahesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+<a href="https://app.daily.dev/maheshpansare"><img src="https://api.daily.dev/devcards/6fd22d64ed9f466eb428cdfb95ed0b64.png?r=5at" width="400" alt="Mahesh Pansare's Dev Card"/></a>
