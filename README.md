@@ -11,8 +11,9 @@ Passionate UI / Frontend engineer focused on building accessible, responsive, an
 ## Areas of Expertise
 
 - Frontend: HTML5, CSS3, JavaScript
+- Frameworks & Libraries: React, Angular, jQuery
 - Styling & UI: SASS, Bootstrap, Material UI
-- Libraries & Tools: jQuery, Git
+- Libraries & Tools: Git
 - Databases: MySQL (basic)
 - Design & Prototyping: Adobe Photoshop, Illustrator, Adobe XD
 
